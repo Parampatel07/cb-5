@@ -1,4 +1,4 @@
-// write a programe to find which triagnle is greater among given three triagnle findout largest triagnle take hieght and base from user
+// write a programe to find which triagnle is smaller among given three triagnle findout largest triagnle take hieght and base from user
 #include <stdio.h>
 void main()
 {
